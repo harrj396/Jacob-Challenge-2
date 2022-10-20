@@ -46,3 +46,8 @@ main {
     flex-flow: row wrap;
 }
 
+.carousel-inner img {
+    width: auto;
+    height: 500px;
+    max-height: 500px;
+  }
